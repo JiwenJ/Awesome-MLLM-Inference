@@ -31,6 +31,7 @@
 - [freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)
 - [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning]()
 - [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models]()
+- [Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See]()
 
 
 #### Quantization
