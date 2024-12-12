@@ -35,6 +35,8 @@
 
 
 #### Quantization
+- [MQuant: Unleashing the Inference Potential of Multimodal Large Language Models via Full Static Quantization]()
+- [Advancing Multimodal Large Language Models with Quantization-Aware Scale Learning for Efficient Adaptation]()
 
 
 
