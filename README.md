@@ -55,6 +55,6 @@
 #### Long Context
 - [Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086)
 
-#### others
+#### Others
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models]()
 - [Efficient Large Multi-modal Models via Visual Context Compression]()
