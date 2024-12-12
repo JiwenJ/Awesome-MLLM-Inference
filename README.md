@@ -39,9 +39,11 @@
 
 #### Distillation
 - [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation]()
+- [LLaVA-KD: A Framework of Distilling Multimodal Large Language Models]()
 
 
 #### Mlsys
+- [SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference]()
 
 
 #### Long Context
@@ -49,3 +51,4 @@
 
 #### others
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models]()
+- [Efficient Large Multi-modal Models via Visual Context Compression]()
