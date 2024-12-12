@@ -24,10 +24,12 @@
 #### Survey
 
 - [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)
+- [A Survey on Multimodal Large Language Models]()
 
 
 #### Pruning
 - [freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)
+- [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning]()
 
 
 #### Quantization
@@ -35,6 +37,7 @@
 
 
 #### Distillation
+- [LLaVA-MoD: Making LLaVA Tiny via MoE Knowledge Distillation]()
 
 
 #### Mlsys
@@ -42,3 +45,6 @@
 
 #### Long Context
 - [Inf-MLLM: Efficient Streaming Inference of Multimodal Large Language Models on a Single GPU](https://arxiv.org/abs/2409.09086)
+
+#### others
+- [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models]()
