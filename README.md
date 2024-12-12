@@ -25,6 +25,9 @@
 
 - [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)
 - [A Survey on Multimodal Large Language Models]()
+- [A Survey on Efficient Inference for Large Language Models]()
+- [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/pdf/2411.17558)
+- [A survey of Mixture of Experts in Multi-Modal Large Language Models]()
 
 
 #### Pruning
