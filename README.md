@@ -13,7 +13,7 @@
 
 ### Contents
 - [Awesome-MLLM-Inference](#awesome-mllm-inference)
-   - [Survey](#survey)
+   - [MLLM Survey](#mllm-survey)
    - [Pruning](#pruning)
    - [Quantization](#quantization)
    - [Mlsys](#mlsys)
@@ -21,7 +21,7 @@
    - [Long Context](#long-context)
 
 
-#### Survey
+#### MLLM Survey
 
 - [Efficient Multimodal Large Language Models: A Survey](https://arxiv.org/abs/2405.10739)
 - [A Survey on Multimodal Large Language Models]()
