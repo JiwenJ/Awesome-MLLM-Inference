@@ -28,10 +28,12 @@
 - [A Survey on Efficient Inference for Large Language Models]()
 - [Natural Language Understanding and Inference with MLLM in Visual Question Answering: A Survey](https://arxiv.org/pdf/2411.17558)
 - [A survey of Mixture of Experts in Multi-Modal Large Language Models]()
+- [Efficient Multimodal Learning from Data-centric Perspective]()
 
 
 #### Pruning
 - [freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)
+- [Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models]()
 - [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning]()
 - [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models]()
 - [Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See]()
@@ -59,3 +61,5 @@
 #### Others
 - [Mini-Monkey: Multi-Scale Adaptive Cropping for Multimodal Large Language Models]()
 - [Efficient Large Multi-modal Models via Visual Context Compression]()
+- [TokenPacker: Efficient Visual Projector for Multimodal LLM]()
+- [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction]()
