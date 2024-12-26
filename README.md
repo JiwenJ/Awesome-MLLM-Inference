@@ -35,6 +35,7 @@
 - [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning]()
 - [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models]()
 - [Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See]()
+- [SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033)
 
 
 #### Quantization
