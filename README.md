@@ -40,6 +40,7 @@
 - [Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See]()
 - [SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033)
 - [FoPru: Focal Pruning for Efficient Large Vision-Language Models](https://arxiv.org/abs/2411.14164)
+- [Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer]()
 
 
 #### Quantization
