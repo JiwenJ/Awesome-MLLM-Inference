@@ -32,6 +32,7 @@
 
 
 #### Pruning
+- [Fast and training-free visual token pruning for multi-modal large language models]()
 - [freePruner: A Training-free Approach for Large Multimodal Model Acceleration](https://arxiv.org/abs/2411.15446)
 - [Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models]()
 - [AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning]()
