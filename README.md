@@ -38,6 +38,7 @@
 - [LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models]()
 - [Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See]()
 - [SmartTrim: Adaptive Tokens and Attention Pruning for Efficient Vision-Language Models](https://arxiv.org/abs/2305.15033)
+- [FoPru: Focal Pruning for Efficient Large Vision-Language Models](https://arxiv.org/abs/2411.14164)
 
 
 #### Quantization
@@ -63,3 +64,6 @@
 - [Efficient Large Multi-modal Models via Visual Context Compression]()
 - [TokenPacker: Efficient Visual Projector for Multimodal LLM]()
 - [PyramidDrop: Accelerating Your Large Vision-Language Models via Pyramid Visual Redundancy Reduction]()
+- [Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction](https://arxiv.org/abs/2412.00556)
+- [FlashSloth: Lightning Multimodal Large Language Models via Embedded Visual Compression](https://arxiv.org/abs/2412.04317)
+- [Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration](https://arxiv.org/abs/2411.17686)
